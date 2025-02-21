@@ -1,4 +1,7 @@
 # auth-otpless
+![image](https://github.com/user-attachments/assets/4579b240-33e5-41ee-84ef-f2e4770d699c)
+![image](https://github.com/user-attachments/assets/f43366a0-226d-4594-a8d5-67c6a397e2a1)
+
 
 ## Otpless
 
